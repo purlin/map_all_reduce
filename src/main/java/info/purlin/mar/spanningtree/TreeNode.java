@@ -1,4 +1,4 @@
-package spanningtree;
+package info.purlin.mar.spanningtree;
 
 import java.net.Socket;
 

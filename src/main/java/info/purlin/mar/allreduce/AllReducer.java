@@ -1,4 +1,4 @@
-package allreduce;
+package info.purlin.mar.allreduce;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,7 +15,7 @@ import java.net.UnknownHostException;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.GZIPOutputStream;
 
-import reducible.AllReducible;
+import info.purlin.mar.reducible.AllReducible;
 
 /**
  * Allreduce operator

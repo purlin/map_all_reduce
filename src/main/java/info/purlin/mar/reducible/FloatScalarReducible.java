@@ -1,4 +1,4 @@
-package reducible;
+package info.purlin.mar.reducible;
 
 public class FloatScalarReducible implements AllReducible {
 

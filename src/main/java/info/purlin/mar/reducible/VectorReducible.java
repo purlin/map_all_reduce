@@ -1,4 +1,4 @@
-package reducible;
+package info.purlin.mar.reducible;
 
 import cern.colt.matrix.DoubleFactory1D;
 import cern.colt.matrix.DoubleMatrix1D;
