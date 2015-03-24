@@ -3,7 +3,7 @@ package reducible;
 import java.io.Serializable;
 
 /**
- * Object for allreduce
+ * Object for all-reduce
  * @author Erheng Zhong (purlin.zhong@gmail.com)
  *
  */
